@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Iamshivk08/Leetcode/tree/master/0258-add-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Iamshivk08/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Iamshivk08/Leetcode/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Iamshivk08/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Iamshivk08/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
